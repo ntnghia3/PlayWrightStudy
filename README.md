@@ -1,2 +1,2 @@
 # PlayWrightStudy
-PlayWright S udy
+PlayWright Study
